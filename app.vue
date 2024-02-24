@@ -1,4 +1,5 @@
 <script setup>
+
 const message = ref('Nuxt')
 const appConfig = useAppConfig()
 function hello () {
@@ -6,7 +7,7 @@ function hello () {
 }
 </script>
 
-<template>
+<template className="dark">
   <v-app>
     <NavBar/>
     <NuxtPage/>
@@ -14,6 +15,7 @@ function hello () {
 </template>
 
 <style>
+@import './assets/styles/main.css';
 html {
   font-family:
     'Source Sans Pro',
@@ -33,3 +35,4 @@ html {
   box-sizing: border-box;
 }
 </style>
+

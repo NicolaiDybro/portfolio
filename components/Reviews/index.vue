@@ -8,7 +8,7 @@
       <h1 class="xl:text-1xl lg:tracking-tight">What does my clients say</h1>
       
     </div>
-    <div class="-mx-3 md:flex items-start pb-12">
+    <div class="-mx-3 md:flex items-start pb-12" >
                 <div class="px-3 md:w-1/3 ">
                     <div class="w-full mx-auto rounded-lg backdrop-filter backdrop-blur-sm border border-sky-600 p-5 text-gray-100 font-light mb-6">
                         <div class="w-full flex mb-4 items-center">

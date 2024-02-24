@@ -1,5 +1,5 @@
 <template>
-  <main class="grid lg:grid-cols-2 place-items-center pt-56 pb-56 md:pt-56">
+  <main class="grid lg:grid-cols-2 place-items-center pt-56 pb-56 md:pt-56" >
     <div class="p-4 md:order-1 hidden md:block rounded-full rotate-border">
       <div class="image-container">
         <img

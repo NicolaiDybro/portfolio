@@ -3,7 +3,5 @@ export default defineAppConfig({
       primary: 'sky',
       gray: 'cool'
     },
-    colorMode: {
-      preference: 'dark'
-    }
+    
   })
