@@ -7,8 +7,10 @@ function hello () {
 </script>
 
 <template>
-  <NavBar/>
-  <NuxtPage/>
+  <v-app>
+    <NavBar/>
+    <NuxtPage/>
+  </v-app>
 </template>
 
 <style>
