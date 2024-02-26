@@ -1,7 +1,11 @@
 <script setup>
 definePageMeta({
   layout: "landing",
+  title: 'Nicolai Dybro | Portfolio',
 });
+useHead({
+        title: 'Nicolai Dybro | Portfolio',
+    });
 </script>
 
 <script setup lang="ts">
