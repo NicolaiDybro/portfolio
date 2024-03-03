@@ -7,16 +7,6 @@
     <h1 class="xl:text-1xl lg:tracking-tight">What I have worked on before</h1>
   </div>
   <div class="flex flex-wrap items-center justify-center gap-10 mt-12 mb-24">
-    <div class="">
-      <ProjectsCard
-        title="Splocus"
-        info="Server Software"
-        href="https://splocus.dk"
-        cover-image="../../images/splocuswebp.png"
-        language="JAVA"
-        color="bg-yellow-400"
-      />
-    </div>
     <div class="flex justify-center">
       <ProjectsCard
         title="JP Grønt"
