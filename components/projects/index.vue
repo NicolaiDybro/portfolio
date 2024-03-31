@@ -11,7 +11,7 @@
       <ProjectsCard
         title="JP Grønt"
         info="JavaFX Application for handling Data"
-        href="https://www.jpgroent.dk/"
+        href="#"
         cover-image="../../images/jpgrontwebp.png"
         language="JAVA"
         color="bg-yellow-400"
@@ -25,6 +25,16 @@
         cover-image="../../images/barbotwebp.png"
         language="ANDROID APP"
         color="bg-green-400"
+      />
+    </div>
+    <div class="flex justify-center">
+      <ProjectsCard
+        title="Order system"
+        info="React & Express website"
+        href="#"
+        cover-image="../../images/jpgrontapp.webp"
+        language="REACT & EXPRESS"
+        color="bg-cyan-400"
       />
     </div>
 
