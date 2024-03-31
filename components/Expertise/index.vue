@@ -1,7 +1,7 @@
 
 
 <template>
-    <div ref="reviews" class="flex items-center justify-center pt-12">
+    <div id="expertise" class="flex items-center justify-center pt-12">
       <h1 class="xl:text-4xl font-bold lg:tracking-tight">Expertise</h1>
       
     </div>
