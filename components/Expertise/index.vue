@@ -22,6 +22,11 @@
     <i class="m-5 devicon-python-plain hover:text-yellow-300 transition duration-500"></i>
     <i class="m-5 devicon-vscode-plain hover:text-sky-300 transition duration-500"></i>
     <i class="m-5 devicon-jetbrains-plain hover:text-amber-300 transition duration-500"></i>
+    <i class="m-5 devicon-nodejs-plain hover:text-green-300 transition duration-500"></i>
+    <i class="m-5 devicon-react-plain hover:text-blue-300 transition duration-500"></i>
+    <i class="m-5 devicon-express-original hover:text-sky-300 transition duration-500"></i>
+    <i class="m-5 devicon-mysql-plain hover:text-blue-300 transition duration-500"></i>
+    
 </div>
 
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
