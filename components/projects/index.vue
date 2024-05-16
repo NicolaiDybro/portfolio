@@ -31,10 +31,20 @@
       <ProjectsCard
         title="Order system"
         info="React & Express website"
-        href="#"
+        href="https://app.jpgroent.dk/"
         cover-image="../../images/jpgrontapp.webp"
         language="REACT & EXPRESS"
         color="bg-cyan-400"
+      />
+    </div>
+    <div class="flex justify-center">
+      <ProjectsCard
+        title="AAU Project Discord Bot Manager"
+        info="JavaScript & Express"
+        href="https://cs-24-dat-2-01.studentproject.aau.dk/"
+        cover-image="../../images/aau.png"
+        language="JAVASCRIPT & EXPRESS"
+        color="bg-yellow-400"
       />
     </div>
 
